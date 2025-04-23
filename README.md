@@ -23,5 +23,5 @@ print("Descubra como conceitos básicos podem ser transformados em projetos incr
 ## 🎯 Objetivos 
 
 ✔ **Demonstração** de conceitos fundamentais  
-✔ **Desenvolvimento** de projetos lúdico
+✔ **Desenvolvimento** de projetos lúdico  
 ✔ **Inspiração** para novos programadores  
