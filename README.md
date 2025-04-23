@@ -1,4 +1,4 @@
-# 🔍 Revisitando Python
+<div align="center"># 🔍 Revisitando Python</div>
 
 ```python
 print("Descubra como conceitos básicos podem ser transformados em projetos incríveis!")
