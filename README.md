@@ -1,4 +1,4 @@
-# 🔍 Revisitando Python: Jornada de Aprendizado Criativo
+# 🔍 Revisitando Python
 
 ```python
 print("Descubra como conceitos básicos podem ser transformados em projetos incríveis!")
